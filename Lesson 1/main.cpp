@@ -1,4 +1,4 @@
-#include<iostrem>
+#include<iostream>
 
 int GLOBAL;
 int GLOBAL_B = 1;
